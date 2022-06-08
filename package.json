@@ -1,0 +1,23 @@
+{
+  "name": "marsair-tw",
+  "version": "1.0.0",
+  "description": "Testing Project as part of process interview for Thoughtworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrohcavalcante/repo-tw-testing-marsair.git"
+  },
+  "author": "Pedro Cavalcante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrohcavalcante/repo-tw-testing-marsair/issues"
+  },
+  "homepage": "https://github.com/pedrohcavalcante/repo-tw-testing-marsair#readme",
+  "devDependencies": {
+    "cypress": "^10.0.3",
+    "cypress-xpath": "^1.6.2"
+  }
+}
